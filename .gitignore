@@ -1,0 +1,12 @@
+node_modules
+.node-persist
+.idea
+debug.log
+*.data.json
+package-lock.json
+
+# managed
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed

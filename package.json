@@ -1,0 +1,24 @@
+{
+  "name": "fuckvirtex",
+  "version": "1.0.0",
+  "description": "FuckVirtex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dandyraka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dandyraka/FuckVirtex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dandyraka/FuckVirtex/issues"
+  },
+  "homepage": "https://github.com/dandyraka/FuckVirtex",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.49.1",
+    "moment-timezone": "^0.5.38"
+  },
+  "type": "module"
+}
