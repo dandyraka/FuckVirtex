@@ -3,7 +3,10 @@ Memproteksi chat pribadimu dari serangan virtex (bug whatsapp product) agar tida
 
 ## Cara Kerja
 Cara kerja bot ini mendeteksi tipe chat product dengan deskripsi lebih dari 10000 karakter.  
-Lalu secara otomatis akan menghapus pesan, membersihkan chat, memblokir kontak, dan menghapus chat.
+Lalu secara otomatis akan menghapus pesan pengirim, membersihkan chat pengirim, memblokir kontak pengirim, dan menghapus chat pengirim.
+
+## Contoh Virtex
+![image](https://user-images.githubusercontent.com/18587059/200855875-38072000-fcb8-47e6-8e23-2eda30c273d5.png)
 
 ---
 
